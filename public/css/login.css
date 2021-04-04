@@ -1,0 +1,43 @@
+body{
+    background-image: url('/img/casino.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button{
+    background-image: url(/img/poke.png);
+    background-color: transparent;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 0;
+    outline: none;
+    color: aliceblue;
+    height: 69px;
+    width: 67px;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+label{
+    color: brown;
+    font-size: 3rem;
+}
+.form{
+    width: 35%;
+    margin: 0 35%;
+}
+p{
+    width: 20%;
+    margin: 0 0 20px;
+    text-align: center;
+    color: black;
+    font-size: 2rem;
+    font-weight: 800;
+    background-color: rgb(225,225,225,.6);
+    margin-left: 41%;
+}
+.form-control{
+    height: 60px;
+    font-size: 2rem;
+    background-color: rgb(225,225,225,.6);
+}
